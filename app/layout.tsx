@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: {
+  // eslint-disable-next-line
   children: React.ReactNode;
 }) {
   return (
