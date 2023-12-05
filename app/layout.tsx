@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+// eslint-disable-next-line
 import { Inter, Space_Grotesk } from "next/font/google";
 import React from "react";
 import "./globals.css";
